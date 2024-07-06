@@ -1,0 +1,2 @@
+In this repository , I have written projects using the algorithms of Russell's artificial intelligence book in Java. In the first two projects, the problem was to find the answer to a puzzle of 9 and 16 pieces, which was implemented in the first project using two algorithms, Breadth first search and Iterative deepening search, and in the second project, using A* and RBFS algorithms.
+Also, in the third project, the problem is to sort a random list of numbers using Genetic sort algorithm
